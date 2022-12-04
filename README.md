@@ -1,7 +1,5 @@
-## Hey there! I'm Pavel Kirilichev, professional full-stack developer!
 [![Header](https://github.com/pavelkirilichev/pavelkirilichev/blob/main/assets/header.png)](https://t.me/pavelpath)
-
-About me
+## Hey there! I' m professional full-stack developer!
 
 My projects
 
