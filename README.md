@@ -1,7 +1,7 @@
 [![Header](https://github.com/pavelkirilichev/pavelkirilichev/blob/main/assets/header.png)](https://t.me/pavelpath)
 ## Hey there! 🧐
 <a href="https://t.me/pavelpath">
-  <img align="left" alt="Pavel's Instagram" width="22px" src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&page=1&position=1&related_id=2111646&origin=tag"/>
+  <img align="left" alt="Pavel's Telegram" width="22px" src="https://cdn.dribbble.com/users/7523/screenshots/1710095/artboard_1.png"/>
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
