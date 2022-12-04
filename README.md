@@ -13,7 +13,7 @@ I'm full-stack developer and a freelance software engineer!👨‍💻
 <br />
 My passion for programming has been born since high school. I got into a class where they taught coding and I was the worst there, so I wanted to understand what is in this programming that is beyond my control. From that day on, I discovered a new world, developing complex algorithms and cool interfaces.
 <br />
-I am also an open-source enthusiasts and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.🙌
+I am also an open-source enthusiasts and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source🙌
 
 
 Languages and Tools
