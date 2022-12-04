@@ -6,8 +6,6 @@
 <a href="https://discordapp.com/users/509423362192310273">
   <img align="left" alt="Pavel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-
-
 <br />
 I'm full-stack developer and a freelance software engineer!
 <br />
