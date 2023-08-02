@@ -3,10 +3,6 @@
 <a href="https://t.me/pavelpath">
   <img align="left" alt="Pavel's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/408/408737.png"/>
 </a>
-<br />
-<a href="https://discordapp.com/users/509423362192310273">
-  <img align="left" alt="Pavel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
 <br />
 <br />
